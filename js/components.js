@@ -1,0 +1,1 @@
+Vue.component('navbar', httpVueLoader('/js/Components/Navbar.vue'))

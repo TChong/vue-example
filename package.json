@@ -1,0 +1,20 @@
+{
+  "name": "vue-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TChong/vue-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TChong/vue-example/issues"
+  },
+  "homepage": "https://github.com/TChong/vue-example#readme",
+  "dependencies": {}
+}
